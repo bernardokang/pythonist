@@ -22,6 +22,8 @@ class UnderWear():
         return self.inside_of_top, self.inside_of_bottom
 
 cloth = UnderWear('Tshirt', 'Skirt')
+
+#이닛의 셀프뺀 꼬다리도 그냥 바로 써버릴수있다는 사실사실
 print(cloth.top, cloth.bottom)
 
 #속옷을 만지기 위해선 그냥은 안되지 리턴접근이 필요한 거라구
