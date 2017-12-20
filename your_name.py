@@ -27,6 +27,7 @@ QProgressBar::chunk {
     width: 1px;
     margin: 1px;
 }
+
 """
 
 
