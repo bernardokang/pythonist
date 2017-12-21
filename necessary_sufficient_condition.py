@@ -27,6 +27,7 @@ elif C == 'yes':
     if D == 'no':
         print("\n"+str(fset[1])+"is necessary condition for "+str(fset[0]))
         print("'" + str(fset[0]) + "'""--->""'" + str(fset[1]) + "'")
+        print("잘 이해 안되면 has로 생각해")
 
 
 
